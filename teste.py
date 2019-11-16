@@ -1,0 +1,2 @@
+import ufma_scrapperpy
+import ufma_scrapperpy.sigaa.curso
