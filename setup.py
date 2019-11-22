@@ -7,7 +7,7 @@ with open("README.md", "r") as fh:
 setup(
   name = 'ufma_scrapperpy',       
   packages = ['ufma_scrapperpy'],   # Chose the same as "name"
-  version = '0.0.3',      # Start with a small number and increase it with every change you make
+  version = '0.0.7',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'TYPE YOUR DESCRIPTION HERE',   # Give a short description about your library
   author = 'Sérgio Souza Costa',                   # Type in your name
