@@ -6,5 +6,4 @@ import unittest
 
 class TestCurso(unittest.TestCase):
     def test_list_int(self):
-        print (ufma_scrapperpy.sigaa.curso.get_discentes_ativos("10816685")) 
         self.assertEqual(1,1)
