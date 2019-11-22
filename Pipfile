@@ -9,6 +9,8 @@ verify_ssl = true
 requests = "*"
 bs4 = "*"
 lxml = "*"
+unidecode = "*"
+pymarc = "*"
 
 [requires]
 python_version = "3.7"
